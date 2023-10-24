@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalin243&label=Profile%20views&color=0e75b6&style=flat" alt="nalin243" /> </p>
-
-- 🌱 I’m currently learning MERN Stack. 
